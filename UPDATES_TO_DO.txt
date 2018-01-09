@@ -1,1 +1,6 @@
-Restore two packages in cls that I had to comment at home
+Restore two packages in cls that I had to comment at home (??? Who wrote that??? Is it fixed?)
+
+JF: Course competencies left to do:
+- Physics of radiology (RO)
+- Physics of Hollywood
+- Astronomy
