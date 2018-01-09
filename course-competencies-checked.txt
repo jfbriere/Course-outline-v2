@@ -1,0 +1,18 @@
+Course competency checked:
+Mech Tech 1 - 943  DONE
+Mech Tech 2 - 944  DONE
+Lab tech optics - 924  DONE
+Lab tech circuits - 925  DONE
+Civil 1 - 912  DONE
+Civil 2 -923  DONE
+Physio - 946  DONE
+Mechanics - NYA  DONE
+E&M - NYB  DONE
+Waves - NYC  DONE
+Astrophysics - BZA
+Eng phys - BZE
+Sec V Phys - 001
+DI - BXB  DONE
+RO - BXB Afraid of breaking it...
+Astronomy - BWT
+Hollywood - BWT
