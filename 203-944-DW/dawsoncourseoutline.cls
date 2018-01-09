@@ -139,7 +139,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jfbriere{\item [Jean-Fran\c cois Bri\`ere] 7A.16, local 4013, \url{jfbriere@dawsoncollege.qc.ca}}
 
-\newcommand\rdib{\item [Rim Dib] 7B.19, local 4153, \url{rdib@place.dawsoncollege.qc.ca}}
+\newcommand\rdib{\item [Rim Dib] 7B.19, local 4153, \url{rdib@dawsoncollege.qc.ca}}
 
 \newcommand\mdikeakos{\item [Maria Dikeakos] 7A.10, local 4009, \url{mdikeakos@dawsoncollege.qc.ca}}
 
@@ -186,6 +186,13 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\cwhittaker{\item [Chris Whittaker] 7A.24, local 4023, \url{cwhittaker@dawsoncollege.qc.ca} or Mio}
 
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
+
+\newcommand\jchoquette{\item [Jeremie Choquette] 7A.18, local 4476, \url{jchoquette@dawsoncollege.qc.ca}}
+
+\newcommand\ethibau{\item [Emmanuel Thibau] 7A.8, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
+
+\newcommand\clamela{\item [Cecilia La Mela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
+
 
 
 
