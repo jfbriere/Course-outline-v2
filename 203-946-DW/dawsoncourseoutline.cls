@@ -78,11 +78,11 @@
 \newcommand\row[3]{%
 #1 & #2\% & #3\%
 }
-	
+
 \newcommand\onescheme[2]{%
 #1 & #2\%
 }
-	
+
 \newcommand\detailedevaluation[5]{%
 	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
 	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
@@ -139,6 +139,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jfbriere{\item [Jean-Fran\c cois Bri\`ere] 7A.16, local 4013, \url{jfbriere@dawsoncollege.qc.ca}}
 
+\newcommand\jchoquette{\item [Jeremie Choquette] 7B.21, local 4235, \url{jchoquette@dawsoncollege.qc.ca}}
+
 \newcommand\rdib{\item [Rim Dib] 7B.19, local 4153, \url{rdib@dawsoncollege.qc.ca}}
 
 \newcommand\mdikeakos{\item [Maria Dikeakos] 7A.10, local 4009, \url{mdikeakos@dawsoncollege.qc.ca}}
@@ -146,6 +148,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\pduarte{\item [Paul Duarte] 7A.18, local 4015, \url{pduarte@dawsoncollege.qc.ca}}
 
 \newcommand\vfeshchenko{\item [Vladimir Feshchenko] 7A.8, local 4025, \url{vfeshchenko@dawsoncollege.qc.ca}}
+
+\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.10, local ????, \url{hgaonach@dawsoncollege.qc.ca}}
 
 \newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
 
@@ -157,6 +161,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\plagogiannis{\item [Philip Lagogiannis] 7A.14, local 4074, \url{plagogiannis@dawsoncollege.qc.ca}}
 
+\newcommand\clamela{\item [Cecilia La Mela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
+
 \newcommand\jli{\item [Jing Li] 7A.24, local 4014, \url{jli@dawsoncollege.qc.ca}}
 
 \newcommand\vmuntean{\item [Virgil Muntean] 7A.8, local 4026, \url{vmuntean@dawsoncollege.qc.ca}}
@@ -164,6 +170,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\hnadeau{\item [H\'el\`ene Nadeau] 7A.22, local 4021, \url{hnadeau@dawsoncollege.qc.ca}}
 
 \newcommand\jnaidj{\item [Jamileh Naidj] 7B.19, local 4154, \url{jnaidj@dawsoncollege.qc.ca}}
+
+\newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
 \newcommand\apronine{\item [Alex Pronine] 7A.24, local 4029, \url{pro9physics@gmail.com}}
 
@@ -173,11 +181,11 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jsandoval{\item [Jaime Sandoval] 7A.18, local 4016, \url{jsandoval@dawsoncollege.qc.ca}}
 
-\newcommand\psimpson{\item [Peggy Simpson] 7B.21, local 4027, \url{psimpson@dawsoncollege.qc.ca}}
-
 \newcommand\astewart{\item [Andrew Stewart] 7A.24, local 4024, \url{anstewart@dawsoncollege.qc.ca}}
 
 \newcommand\jsumner{\item [Jonathon Sumner] 7A.16, local 4012, \url{jsumner@dawsoncollege.qc.ca}}
+
+\newcommand\ethibau{\item [Emmanuel Thibau] 7B.19, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
 
 \newcommand\mtoharia{\item [Manuel Toharia] 7B.21, local 4017, \url{mtoharia@dawsoncollege.qc.ca}}
 
@@ -185,19 +193,12 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\cwhittaker{\item [Chris Whittaker] 7A.24, local 4023, \url{cwhittaker@dawsoncollege.qc.ca} or Mio}
 
-\newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
-
-\newcommand\jchoquette{\item [Jeremie Choquette] 7A.18, local 4476, \url{jchoquette@dawsoncollege.qc.ca}}
-
-\newcommand\ethibau{\item [Emmanuel Thibau] 7A.8, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
-
-\newcommand\clamela{\item [Cecilia La Mela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
 
 
 
 
-% LIMBES 
+
+
+
+% LIMBES
 \newcommand\aabrassart{\item [Arnaud Abrassart] 7A.16, local 1755, \url{aabrassart@dawsoncollege.qc.ca}}
-
-
-
