@@ -173,7 +173,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
-\newcommand\apronine{\item [Alex Pronine] 7A.24, local 4029, \url{pro9physics@gmail.com}}
+\newcommand\apronine{\item [Alex Pronine] 7A.14, local 4029, \url{pro9physics@gmail.com}} % used to be in 7A.24, switched to Basim's desk for F18
 
 \newcommand\srastikerdar{\item [Samad Rastikerdar] 7A.22, local 4020, \url{srastikerdar@dawsoncollege.qc.ca}}
 
