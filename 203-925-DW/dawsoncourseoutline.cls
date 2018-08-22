@@ -149,7 +149,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\vfeshchenko{\item [Vladimir Feshchenko] 7A.8, local 4025, \url{vfeshchenko@dawsoncollege.qc.ca}}
 
-\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.10, local ????, \url{hgaonach@dawsoncollege.qc.ca}}
+\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.16, local ????, \url{hgaonach@dawsoncollege.qc.ca}}
 
 \newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
 
@@ -173,7 +173,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
-\newcommand\apronine{\item [Alex Pronine] 7A.24, local 4029, \url{pro9physics@gmail.com}}
+\newcommand\apronine{\item [Alex Pronine] 7A.14, local 4029, \url{pro9physics@gmail.com}} % used to be in 7A.24, switched to Basim's desk for F18
 
 \newcommand\srastikerdar{\item [Samad Rastikerdar] 7A.22, local 4020, \url{srastikerdar@dawsoncollege.qc.ca}}
 
