@@ -149,7 +149,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\vfeshchenko{\item [Vladimir Feshchenko] 7A.8, local 4025, \url{vfeshchenko@dawsoncollege.qc.ca}}
 
-\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.16, local ????, \url{hgaonach@dawsoncollege.qc.ca}}
+\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.16, local 4902, \url{hgaonach@dawsoncollege.qc.ca}}
 
 \newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
 
