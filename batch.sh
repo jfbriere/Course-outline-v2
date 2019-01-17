@@ -9,7 +9,7 @@
 
 session="_Winter2019"
 
-for dir in *NY*; do
+for dir in *BZA*; do
 ## FALL COURSE LIST ##
 #for dir in *BWT* *BXB* *BZE* *NYA* *NYB* *NYC* *001* *923* *925* *946* ; do
 
