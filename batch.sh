@@ -7,9 +7,9 @@
 # or try
 # dos2unix batch.sh
 
-session="_Winter2019"
+session="_Summer2019"
 
-for dir in *001*; do
+for dir in *NY*; do
 ## FALL COURSE LIST ##
 #for dir in *BWT* *BXB* *BZE* *NYA* *NYB* *NYC* *001* *923* *925* *946* ; do
 

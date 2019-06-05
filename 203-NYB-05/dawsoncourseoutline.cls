@@ -133,6 +133,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\mbaryliuk{\item [Michelle Baryliuk] 7A.24, local 4022, \url{mraimbert@dawsoncollege.qc.ca}}
 
+\newcommand\sbatista{\item [Santiago Juan Batista] 7A.16, local ????, \url{sbatista@dawsoncollege.qc.ca}}
+
 \newcommand\sbhatnagar{\item [Sameer Bhatnagar] 7A.14, local 4010, \url{sbhatnagar@dawsoncollege.qc.ca}}
 
 \newcommand\nboukhira{\item [Nadim Boukhira] 7A.20, local 4018, \url{nboukhira@dawsoncollege.qc.ca}}
