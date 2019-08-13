@@ -133,6 +133,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\mbaryliuk{\item [Michelle Baryliuk] 7A.24, local 4022, \url{mraimbert@dawsoncollege.qc.ca}}
 
+\newcommand\sbatista{\item [Santiago Juan Batista] 7A.16, local 4041, \url{sbatista@dawsoncollege.qc.ca}}
+
 \newcommand\sbhatnagar{\item [Sameer Bhatnagar] 7A.14, local 4010, \url{sbhatnagar@dawsoncollege.qc.ca}}
 
 \newcommand\nboukhira{\item [Nadim Boukhira] 7A.20, local 4018, \url{nboukhira@dawsoncollege.qc.ca}}
@@ -149,11 +151,9 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\vfeshchenko{\item [Vladimir Feshchenko] 7A.8, local 4025, \url{vfeshchenko@dawsoncollege.qc.ca}}
 
-\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.16, local ????, \url{hgaonach@dawsoncollege.qc.ca}}
+\newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.10, local 4902, \url{hgaonach@dawsoncollege.qc.ca}}
 
 \newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
-
-\newcommand\niko{\item [Nikolaos Gryspolakis] 7B.19, local 4155, \url{ngryspolakis@dawsoncollege.qc.ca}}
 
 \newcommand\khaile{\item [Kibreab Haile] 7B.21, local 4028, \url{khaile@dawsoncollege.qc.ca}}
 
@@ -171,9 +171,11 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jnaidj{\item [Jamileh Naidj] 7B.19, local 4154, \url{jnaidj@dawsoncollege.qc.ca}}
 
+\newcommand\mpneault{\item [Marie-Pier Neault] 7A.16, local 4785, \url{mpneault@dawsoncollege.qc.ca}}
+
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
-\newcommand\apronine{\item [Alex Pronine] 7A.14, local 4029, \url{pro9physics@gmail.com}} % used to be in 7A.24, switched to Basim's desk for F18
+\newcommand\apronine{\item [Alex Pronine] 7A.24, local 4029, \url{pro9physics@gmail.com}}
 
 \newcommand\srastikerdar{\item [Samad Rastikerdar] 7A.22, local 4020, \url{srastikerdar@dawsoncollege.qc.ca}}
 
