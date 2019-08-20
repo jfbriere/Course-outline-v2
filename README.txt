@@ -23,6 +23,10 @@ Things to update every term:
 - For 001, NYA, NYB, and NYC, the schedule of content is different for the summer semester.
         > Go to the NY* folder
         > Open the CourseContent.tex files
-        > Comment/Uncomment the proper section
+        > Comment/Uncomment the proper sections
+- For NYA, NYB, and NYC, the textbook blurb is different for the summer semester.
+        > Go to the NY* folder
+        > Open the Textbook.tex file
+        > Comment/Uncomment the proper sections
 - In all folder update the file "Teaches.tex" to add the current teachers.
         > Add the \conted for the continuing education Teachers
