@@ -183,6 +183,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jsandoval{\item [Jaime Sandoval] 7A.18, local 4016, \url{jsandoval@dawsoncollege.qc.ca}}
 
+\newcommand\rshoemaker{\item [Richard Shoemaker] 7B.19, local 4024, \url{rshoemaker@dawsoncollege.qc.ca}}
+
 \newcommand\astewart{\item [Andrew Stewart] 7A.24, local 4024, \url{anstewart@dawsoncollege.qc.ca}}
 
 \newcommand\jsumner{\item [Jonathon Sumner] 7A.16, local 4012, \url{jsumner@dawsoncollege.qc.ca}}
