@@ -153,7 +153,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.10, local 4902, \url{hgaonach@dawsoncollege.qc.ca}}
 
-\newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
+\newcommand\dglennie{\item [Diana Glennie] 8A.11, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
 
 \newcommand\khaile{\item [Kibreab Haile] 7B.21, local 4028, \url{khaile@dawsoncollege.qc.ca}}
 
