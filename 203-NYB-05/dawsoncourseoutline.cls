@@ -189,7 +189,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jsumner{\item [Jonathon Sumner] 7A.16, local 4012, \url{jsumner@dawsoncollege.qc.ca}}
 
-\newcommand\ethibau{\item [Emmanuel Thibau] 7B.19, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
+\newcommand\ethibau{\item [Emmanuel Thibau] 7A.14, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
 
 \newcommand\mtoharia{\item [Manuel Toharia] 7B.21, local 4017, \url{mtoharia@dawsoncollege.qc.ca}}
 

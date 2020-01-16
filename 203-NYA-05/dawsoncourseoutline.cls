@@ -153,7 +153,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\hgaonach{\item [H\'el\`ene Gaonac'h] 7A.10, local 4902, \url{hgaonach@dawsoncollege.qc.ca}}
 
-\newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
+\newcommand\dglennie{\item [Diana Glennie] 8A.11, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
 
 \newcommand\khaile{\item [Kibreab Haile] 7B.21, local 4028, \url{khaile@dawsoncollege.qc.ca}}
 
@@ -189,7 +189,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jsumner{\item [Jonathon Sumner] 7A.16, local 4012, \url{jsumner@dawsoncollege.qc.ca}}
 
-\newcommand\ethibau{\item [Emmanuel Thibau] 7B.19, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
+\newcommand\ethibau{\item [Emmanuel Thibau] 7A.14, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
 
 \newcommand\mtoharia{\item [Manuel Toharia] 7B.21, local 4017, \url{mtoharia@dawsoncollege.qc.ca}}
 
